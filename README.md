@@ -1,2 +1,2 @@
 # py
-I am Egor.l am noob
+I am Egor.
